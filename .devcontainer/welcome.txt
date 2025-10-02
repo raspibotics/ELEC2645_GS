@@ -1,0 +1,4 @@
+echo "############################################"
+echo "#   d[o_0]b Happy Coding :D                #"
+echo "#   Instructions and help in the readme    #"
+echo "############################################"
